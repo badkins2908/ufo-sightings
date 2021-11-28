@@ -6,10 +6,12 @@ The purpose of this analysis was to create a webpage using HTML that displays a 
 
 ## Results
 When on the page, UFO data sightings data will show below, unfiltered.
-<img src="Resources/Unfiltered.png" width="300" height="300">
+
+<img src="Resources/Unfiltered.png" width="500" height="300">
 
 However, if wanting to filter the UFO data, then the filter fields can be used to search by date, city, state, country, or shape of the UFO. 
-<img src="Resources/Filtered.png" width="300" height="300">
+
+<img src="Resources/Filtered.png" width="500" height="300">
 
 ## Summary
 The one drawback assocaited with this webpage is it isn't dynamic to fit different device sizes, such as iPad or mobile phone. In addition, another drawback is the minimal data of UFO sightings, making it difficult to search by anything other than the limited date, cities, states and countries of the current data on the page. 
